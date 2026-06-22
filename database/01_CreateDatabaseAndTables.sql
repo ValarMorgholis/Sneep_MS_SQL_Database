@@ -7,7 +7,6 @@ GO
 USE SNEEP_DB;
 GO
 
--- حذف جدول‌ها در صورت وجود (به ترتیب وابستگی)
 DROP TABLE IF EXISTS Report;
 DROP TABLE IF EXISTS Alert;
 DROP TABLE IF EXISTS AnalysisResult;
