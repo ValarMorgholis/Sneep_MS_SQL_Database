@@ -12,31 +12,30 @@ This project was developed as part of a Database course using Microsoft SQL Serv
 
 ## 🎯 Objectives
 
-* Store patient information and medical history.
-* Record sleep sessions and sensor measurements.
-* Analyze sleep apnea events.
-* Generate alerts and medical reports.
-* Demonstrate database concepts including:
-
-  * Entity Relationship Diagram (ERD)
-  * Primary Keys and Foreign Keys
-  * SQL Queries
-  * Stored Procedures
-  * Scalar Functions
+- Store patient information and medical history.
+- Record sleep sessions and sensor measurements.
+- Analyze sleep apnea events.
+- Generate alerts and medical reports.
+- Demonstrate database concepts including:
+  - Entity Relationship Diagram (ERD)
+  - Primary Keys and Foreign Keys
+  - SQL Queries
+  - Stored Procedures
+  - Scalar Functions
 
 ---
 
 ## 🗂 Database Tables
 
-* Patient
-* Doctor
-* MedicalHistory
-* Device
-* SleepSession
-* SensorData
-* AnalysisResult
-* Alert
-* Report
+- Patient
+- Doctor
+- MedicalHistory
+- Device
+- SleepSession
+- SensorData
+- AnalysisResult
+- Alert
+- Report
 
 ---
 
@@ -59,10 +58,10 @@ database/
 
 ## ⚙️ Technologies
 
-* Microsoft SQL Server
-* SQL Server Management Studio (SSMS)
-* Draw.io
-* GitHub
+- Microsoft SQL Server 2017
+- SQL Server Management Studio (SSMS) 2022
+- Draw.io
+- GitHub
 
 ---
 
@@ -130,13 +129,13 @@ diagrams/
 
 Documentation includes:
 
-* Scenario
-* Objectives
-* ER Diagram
-* Database relationships
-* Query screenshots
-* Stored procedure examples
-* Function examples
+- Scenario
+- Objectives
+- ER Diagram
+- Database relationships
+- Query screenshots
+- Stored procedure examples
+- Function examples
 
 ---
 
